@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfiber_docs=self.webpackChunkfiber_docs||[]).push([[27918],{19408:(e,n,t)=>{t.d(n,{Z:()=>l});var r=t(67294),u=t(23120),c=t(80143);function l(e){const n=(0,c.gA)();return"default"!==n?.pluginId&&"current"!==(0,c.Iw)(n.pluginId)?.activeVersion?.name?null:r.createElement(r.Fragment,null,r.createElement(u.Z,e))}}}]);
